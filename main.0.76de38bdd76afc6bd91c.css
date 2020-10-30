@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{font-family:sans-serif}.one-country{display:flex;flex-direction:column;justify-content:space-around;align-items:center}.country-list,.languages{list-style:none;margin:0;padding:0}.country-list{display:flex;flex-direction:column;justify-content:center;align-items:center}.country-list>li{margin-bottom:10px}
